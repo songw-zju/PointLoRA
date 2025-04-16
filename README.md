@@ -1,5 +1,5 @@
 # PointLoRA
-> Song Wang, Wentong Li, Wenyu Liu, Xiaolu Liu, Jianke Zhu*
+> Song Wang, Xiaolu Liu, Lingdong Kong, Jianyun Xu, Chunyong Hu, Gongfan Fang, Wentong Li, Jianke Zhu, Xinchao Wang
 
 This is the official implementation of **PointLoRA: Low-Rank Adaptation with Token Selection for Point Cloud Learning** (CVPR 2025)  [[Paper]()] [[Video]()].
 
